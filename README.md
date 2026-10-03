@@ -131,30 +131,18 @@ calculus_bench.exe
 
 ```text
 ========================================
-       CALCULUS 1 CPU BENCHMARK
-          by Patiphan Sittikan
+      TERMINAL BENCHMARK WITH CALCULUS   
+           by Patiphan Sittikan          
 ========================================
-
-[*] Starting benchmark...
-
-[*] DEFINITE INTEGRAL
-    150,000,000 steps
-    Done! Time: 1.3421 s
-    Result: 0.xxxxx
-
-[*] NUMERICAL DERIVATIVE
-    50,000,000 steps
-    Done! Time: 0.4817 s
-
+[*] Starting Calculus 1 benchmark...
+[*] DEFINITE INTEGRAL (150000000 steps)... Done! Time: 0.1345s (Area: 1.1234)
+[*] DERIVATIVE (50000000 steps)... Done! Time: 0.0412s
 ========================================
-             RESULTS
-========================================
-
- Total Calculus Steps : 200,000,000
- Total Time           : 1.8238 s
-
- SPEED                 : 109.66 M-ints
-
+ BENCHMARK RESULTS:
+ Total Cal 1 Operations: 200000000 steps
+ Total Time Taken      : 0.1757 s
+ ---------------------------------------
+ SPEED SCORE           : 1138.30 M-ints
 ========================================
 
 Created and maintained by
