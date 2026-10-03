@@ -1,4 +1,4 @@
-# Calculus 1 Terminal Benchmark
+# Terminal Benchmark
 
 A lightweight CPU benchmarking tool written in C++ that uses numerical calculus workloads to measure computational performance.
 
